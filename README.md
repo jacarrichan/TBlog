@@ -20,3 +20,9 @@ Team Blog 团队博客
 O了
 
 
+
+
+JacarriChan  add  （2013-9-22 9:16:19）
+
+/貌似这个东西是用开源中国上学来的   RequestContext 类对比:   http://www.oschina.net/code/snippet_12_2/
+
